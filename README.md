@@ -52,5 +52,5 @@ A refactored To-Do List app with localStorage persistence, modular JavaScript, a
 <img width="735" height="570" alt="image" src="https://github.com/user-attachments/assets/5a26f6b1-8a2a-44a7-8643-88ae78344a7f" />
 
 
-## Live Demo (if deployed)
-<!-- [View Live Demo](https://github.com/xmacua/iyf-s10-week-07-xmacua.git) -->
+## Live Demo 
+--> (https://github.com/xmacua/iyf-s10-week-07-xmacua.git) -->
