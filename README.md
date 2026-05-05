@@ -52,4 +52,4 @@ A refactored To-Do List app with localStorage persistence, modular JavaScript, a
 <!-- Add screenshots here if available -->
 
 ## Live Demo (if deployed)
-<!-- [View Live Demo](https://your-deployed-url.com) -->
+<!-- [View Live Demo]() -->
