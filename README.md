@@ -1,6 +1,23 @@
-# Persistent To-Do List
+# Week 7: Persistent To-Do List
 
-A refactored To-Do List app with localStorage persistence, modular JavaScript, and a clean code structure.
+## Author
+- **Name:** xmacua
+- **GitHub:** [@xmacua](https://github.com/xmacua)
+- **Date:** May 5, 2026
+
+## Project Description
+A refactored To-Do List app with localStorage persistence, modular JavaScript, and a clean code structure. This project demonstrates advanced JavaScript concepts like state management, browser storage, and clean code practices, preparing for React development.
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript (ES6 Modules)
+- localStorage API
+- Git
+- GitHub
+- ESLint
+- Prettier
+- npm
 
 ## Features
 - Persist todos across page refreshes
