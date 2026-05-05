@@ -49,7 +49,7 @@ A refactored To-Do List app with localStorage persistence, modular JavaScript, a
 - Organizing modular code without circular dependencies, achieved through careful import/export structure.
 
 ## Screenshots (optional)
-<!-- Add screenshots here if available -->
+
 
 ## Live Demo (if deployed)
-<!-- [View Live Demo]() -->
+<!-- [View Live Demo](https://github.com/xmacua/iyf-s10-week-07-xmacua.git) -->
